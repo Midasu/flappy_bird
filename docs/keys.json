@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13 15:54 UTC",
+  "updated_at": "2026-09-13 20:32 UTC",
   "baltics": {
     "best": null,
     "top10": [],
@@ -7,18 +7,10 @@
     "total": 0
   },
   "finland": {
-    "best": "vless://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@213.176.17.50:443?encryption=none&fp=firefox&path=/assets/v2/pkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=sstats.vk-portal.net&type=xhttp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D",
-    "top10": [
-      {
-        "key": "vless://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@213.176.17.50:443?encryption=none&fp=firefox&path=/assets/v2/pkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=sstats.vk-portal.net&type=xhttp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D",
-        "host": "213.176.17.50",
-        "port": 443,
-        "latency_ms": 156.6,
-        "first_seen": "2026-09-13T15:54:14Z"
-      }
-    ],
-    "total_working": 1,
-    "total": 1
+    "best": null,
+    "top10": [],
+    "total_working": 0,
+    "total": 0
   },
   "germany": {
     "best": "vless://6aaa7d1d-8b35-4fd2-ae60-0129ad624935@162.249.126.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BuWOXeVcfmw_I8qSPevsxMVS0cH4ua1b_nH-RFtutB8&security=reality&sid=c4a357107e45ac06&sni=de.edgeses.org&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
@@ -27,125 +19,151 @@
         "key": "vless://6aaa7d1d-8b35-4fd2-ae60-0129ad624935@162.249.126.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BuWOXeVcfmw_I8qSPevsxMVS0cH4ua1b_nH-RFtutB8&security=reality&sid=c4a357107e45ac06&sni=de.edgeses.org&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
         "host": "162.249.126.228",
         "port": 443,
-        "latency_ms": 119.9,
+        "latency_ms": 161.6,
         "first_seen": "2026-09-13T11:24:54Z"
       },
       {
         "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:443?encryption=none&fp=firefox&path=/&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&security=reality&sni=cdn.steamstatic.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Kropp%20%7C%20%5BBL%5D",
         "host": "89.47.55.8",
         "port": 443,
-        "latency_ms": 122.3,
+        "latency_ms": 182.7,
+        "first_seen": "2026-09-13T11:24:54Z"
+      },
+      {
+        "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&fp=chrome&type=xhttp&sni=www.sony.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
+        "host": "89.47.55.9",
+        "port": 443,
+        "latency_ms": 183.1,
+        "first_seen": "2026-09-13T15:54:15Z"
+      },
+      {
+        "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:443?mode=auto&path=/&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Kropp%20%7C%20%5BBL%5D",
+        "host": "89.47.55.8",
+        "port": 443,
+        "latency_ms": 184.3,
         "first_seen": "2026-09-13T11:24:54Z"
       },
       {
         "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?type=grpc&encryption=none&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&security=reality&fp=chrome&authority=/TELEGRAM-madshopx&serviceName=TunService&sni=www.sony.com&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
         "host": "89.47.55.9",
         "port": 8443,
-        "latency_ms": 124.9,
-        "first_seen": "2026-09-13T11:24:54Z"
-      },
-      {
-        "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:443?mode=auto&path=/&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Kropp%20%7C%20%5BBL%5D",
-        "host": "89.47.55.8",
-        "port": 443,
-        "latency_ms": 125.2,
-        "first_seen": "2026-09-13T11:24:54Z"
-      },
-      {
-        "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.sony.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
-        "host": "89.47.55.9",
-        "port": 8443,
-        "latency_ms": 126.1,
-        "first_seen": "2026-09-13T11:24:54Z"
-      },
-      {
-        "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&authority=/TELEGRAM-TOOTFFARANGI&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.sony.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
-        "host": "89.47.55.9",
-        "port": 8443,
-        "latency_ms": 134.3,
+        "latency_ms": 190.3,
         "first_seen": "2026-09-13T11:24:54Z"
       },
       {
         "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?type=grpc&security=reality&fp=firefox&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&sni=www.sony.com&serviceName=TunService#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
         "host": "89.47.55.9",
         "port": 8443,
-        "latency_ms": 134.8,
+        "latency_ms": 191.3,
         "first_seen": "2026-09-13T15:54:15Z"
       },
       {
-        "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&fp=chrome&type=xhttp&sni=www.sony.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
+        "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?encryption=none&fp=firefox&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&security=reality&sni=www.sony.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
         "host": "89.47.55.9",
         "port": 443,
-        "latency_ms": 1176.7,
-        "first_seen": "2026-09-13T15:54:15Z"
+        "latency_ms": 196.2,
+        "first_seen": "2026-09-13T20:32:34Z"
+      },
+      {
+        "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&authority=%2FTELEGRAM-TOOTFFARANGI&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&type=grpc&serviceName=TunService&sni=www.sony.com&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
+        "host": "89.47.55.9",
+        "port": 8443,
+        "latency_ms": 201.7,
+        "first_seen": "2026-09-13T20:32:34Z"
+      },
+      {
+        "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&authority=/TELEGRAM-TOOTFFARANGI&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.sony.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
+        "host": "89.47.55.9",
+        "port": 8443,
+        "latency_ms": 212.2,
+        "first_seen": "2026-09-13T11:24:54Z"
+      },
+      {
+        "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.sony.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
+        "host": "89.47.55.9",
+        "port": 8443,
+        "latency_ms": 213.9,
+        "first_seen": "2026-09-13T11:24:54Z"
       }
     ],
-    "total_working": 8,
-    "total": 8
+    "total_working": 13,
+    "total": 13
   },
   "sweden": {
-    "best": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?encryption=none&fp=firefox&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&security=reality&sni=download.intel.com&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D",
+    "best": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.99.8:8443?mode=gun&security=reality&encryption=none&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&fp=chrome&type=grpc&serviceName=TunService&sni=cdn.steamstatic.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D",
     "top10": [
       {
-        "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?encryption=none&fp=firefox&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&security=reality&sni=download.intel.com&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D",
+        "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.99.8:8443?mode=gun&security=reality&encryption=none&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&fp=chrome&type=grpc&serviceName=TunService&sni=cdn.steamstatic.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D",
+        "host": "170.168.99.8",
+        "port": 8443,
+        "latency_ms": 162.4,
+        "first_seen": "2026-09-13T20:32:35Z"
+      },
+      {
+        "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=grpc&serviceName=TunService&sni=download.intel.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D",
         "host": "89.47.55.9",
-        "port": 443,
-        "latency_ms": 125.8,
-        "first_seen": "2026-09-13T15:54:16Z"
+        "port": 8443,
+        "latency_ms": 163.4,
+        "first_seen": "2026-09-13T20:32:35Z"
+      },
+      {
+        "key": "vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:8443?mode=gun&security=reality&encryption=none&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&fp=chrome&type=grpc&serviceName=TunService&sni=cdn.steamstatic.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D",
+        "host": "170.168.99.8",
+        "port": 8443,
+        "latency_ms": 165.5,
+        "first_seen": "2026-09-13T20:32:35Z"
       },
       {
         "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?mode=auto&path=/&security=reality&encryption=none&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=xhttp&sni=download.intel.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D",
         "host": "89.47.55.9",
         "port": 443,
-        "latency_ms": 143.2,
+        "latency_ms": 183.9,
         "first_seen": "2026-09-13T11:24:55Z"
-      }
-    ],
-    "total_working": 2,
-    "total": 2
-  },
-  "netherlands": {
-    "best": "vless://6dd13cd4-e378-4742-bef1-d8ac54083626@80.91.65.89:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qSdvSbr8scEUh7pMy8edVRkjIn91fJpDRDVmZQTFMno&security=reality&sid=16b80cabbd9c0ee6&sni=www.nvidia.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D",
-    "top10": [
+      },
       {
-        "key": "vless://6dd13cd4-e378-4742-bef1-d8ac54083626@80.91.65.89:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qSdvSbr8scEUh7pMy8edVRkjIn91fJpDRDVmZQTFMno&security=reality&sid=16b80cabbd9c0ee6&sni=www.nvidia.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D",
-        "host": "80.91.65.89",
+        "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?encryption=none&fp=firefox&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&security=reality&sni=download.intel.com&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D",
+        "host": "89.47.55.9",
         "port": 443,
-        "latency_ms": 100.6,
-        "first_seen": "2026-09-13T11:24:55Z"
-      }
-    ],
-    "total_working": 1,
-    "total": 1
-  },
-  "poland": {
-    "best": "vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@13.143.143.217:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&security=reality&sid=8ffa160e608bf539&sni=pol2.pinkmoon.pro&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%28%C5%9Ar%C3%B3dmie%C5%9Bcie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "top10": [
-      {
-        "key": "vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@13.143.143.217:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&security=reality&sid=8ffa160e608bf539&sni=pol2.pinkmoon.pro&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%28%C5%9Ar%C3%B3dmie%C5%9Bcie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-        "host": "13.143.143.217",
-        "port": 443,
-        "latency_ms": 111.7,
+        "latency_ms": 215.6,
         "first_seen": "2026-09-13T15:54:16Z"
       }
     ],
-    "total_working": 1,
+    "total_working": 5,
+    "total": 6
+  },
+  "netherlands": {
+    "best": null,
+    "top10": [],
+    "total_working": 0,
+    "total": 0
+  },
+  "poland": {
+    "best": null,
+    "top10": [],
+    "total_working": 0,
     "total": 2
   },
   "other_countries": {
     "Other": {
-      "best": "vless://953358cb-82ba-4296-960d-6d2ec3468f4c@13.143.137.164:9443?security=reality&encryption=none&sni=plaincanvas.videoclothing.xyz&fp=chrome&pbk=dZ0rhO_PL67-Ciwc6CHQgtde3a5EUUuReA7M-lRNCDQ&sid=e336c9a786fae301&flow=xtls-rprx-vision#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D",
+      "best": "vless://8952ecb7-4b85-4aa5-8b22-adc9aa4d3591@47.83.4.146:443?type=tcp&security=reality&path=/&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=ID53PilNajhqBP3PTJJxurZOFnZfKVs-CU5buNOaKBQ&sid=e40b98d40e53b8b9#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D",
       "top10": [
         {
-          "key": "vless://953358cb-82ba-4296-960d-6d2ec3468f4c@13.143.137.164:9443?security=reality&encryption=none&sni=plaincanvas.videoclothing.xyz&fp=chrome&pbk=dZ0rhO_PL67-Ciwc6CHQgtde3a5EUUuReA7M-lRNCDQ&sid=e336c9a786fae301&flow=xtls-rprx-vision#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D",
-          "host": "13.143.137.164",
-          "port": 9443,
-          "latency_ms": 146.8,
-          "first_seen": "2026-09-13T15:54:19Z"
+          "key": "vless://8952ecb7-4b85-4aa5-8b22-adc9aa4d3591@47.83.4.146:443?type=tcp&security=reality&path=/&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=ID53PilNajhqBP3PTJJxurZOFnZfKVs-CU5buNOaKBQ&sid=e40b98d40e53b8b9#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D",
+          "host": "47.83.4.146",
+          "port": 443,
+          "latency_ms": 151.8,
+          "first_seen": "2026-09-13T20:32:35Z"
+        },
+        {
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&type=xhttp&sni=www.sony.com&fp=ios#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D",
+          "host": "89.47.55.9",
+          "port": 443,
+          "latency_ms": 207.4,
+          "first_seen": "2026-09-13T20:32:35Z"
         }
       ],
-      "total_working": 1,
-      "total": 1,
+      "total_working": 2,
+      "total": 2,
       "flag": "🌍"
     },
     "China": {
@@ -155,15 +173,15 @@
           "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?type=grpc&security=reality&fp=firefox&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&sni=download.nvidia.com&serviceName=TunService#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Haidian%20%28Haidian%20Qu%29%20%7C%20%5BBL%5D",
           "host": "89.47.55.9",
           "port": 8443,
-          "latency_ms": 129.3,
-          "first_seen": "2026-09-13T15:54:19Z"
+          "latency_ms": 204.4,
+          "first_seen": "2026-09-13T20:32:35Z"
         },
         {
           "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Haidian%20%28Haidian%20Qu%29%20%7C%20%5BBL%5D",
           "host": "89.47.55.9",
           "port": 8443,
-          "latency_ms": 145.9,
-          "first_seen": "2026-09-13T15:54:19Z"
+          "latency_ms": 218.8,
+          "first_seen": "2026-09-13T20:32:35Z"
         }
       ],
       "total_working": 2,
@@ -171,136 +189,213 @@
       "flag": "🇨🇳"
     },
     "Hong Kong": {
-      "best": "vless://906f32ff-9293-46ee-a694-a5eee40b8b42@207.57.131.123:26631?&security=reality&flow=xtls-rprx-vision&pbk=x2oZng_IPNINd3JLak1Rtv05OdkwgChhgHzBT7Z3byQ&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+      "best": "vless://6dbb8854-17a5-4684-b930-c11f022975ec@dlbgwqqngrjbwan.jiedddym.com:42868?flow=xtls-rprx-vision&fp=chrome&pbk=GLtdhq3ZSKYlJv62ye5dFKfjI3UF9mBIGOl5ms75rVA&security=reality&sid=747a75eb5ecef8&sni=www.apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20City%20One%20%7C%20%5BBL%5D",
       "top10": [
         {
-          "key": "vless://906f32ff-9293-46ee-a694-a5eee40b8b42@207.57.131.123:26631?&security=reality&flow=xtls-rprx-vision&pbk=x2oZng_IPNINd3JLak1Rtv05OdkwgChhgHzBT7Z3byQ&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-          "host": "207.57.131.123",
-          "port": 26631,
-          "latency_ms": 250.5,
-          "first_seen": "2026-09-13T15:54:19Z"
+          "key": "vless://6dbb8854-17a5-4684-b930-c11f022975ec@dlbgwqqngrjbwan.jiedddym.com:42868?flow=xtls-rprx-vision&fp=chrome&pbk=GLtdhq3ZSKYlJv62ye5dFKfjI3UF9mBIGOl5ms75rVA&security=reality&sid=747a75eb5ecef8&sni=www.apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20City%20One%20%7C%20%5BBL%5D",
+          "host": "dlbgwqqngrjbwan.jiedddym.com",
+          "port": 42868,
+          "latency_ms": 138.7,
+          "first_seen": "2026-09-13T20:32:36Z"
         },
         {
-          "key": "vless://46554735-415f-4be5-9390-a19dc430a15c@207.57.133.49:23156?flow=xtls-rprx-vision&fp=firefox&pbk=NjDiEVSSYysWC7yheN_cy4YkCXHtP91yB4vbpgQc2Q8&security=reality&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-          "host": "207.57.133.49",
-          "port": 23156,
-          "latency_ms": 253.0,
-          "first_seen": "2026-09-13T15:54:19Z"
+          "key": "vless://bca6f15f-89db-40e2-a955-19d084229234@47.83.173.110:443?type=tcp&security=reality&path=/&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=BqFbrSSosM7RAVvUGTRmCrZlHY6aGwq9HEJs0fMdK0s&sid=8144589880395fa1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D",
+          "host": "47.83.173.110",
+          "port": 443,
+          "latency_ms": 139.4,
+          "first_seen": "2026-09-13T20:32:36Z"
         },
         {
-          "key": "vless://906f32ff-9293-46ee-a694-a5eee40b8b42@207.57.131.123:26631?flow=xtls-rprx-vision&fp=chrome&pbk=x2oZng_IPNINd3JLak1Rtv05OdkwgChhgHzBT7Z3byQ&security=reality&sid=&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-          "host": "207.57.131.123",
-          "port": 26631,
-          "latency_ms": 1311.2,
-          "first_seen": "2026-09-13T15:54:19Z"
+          "key": "vless://6dbb8854-17a5-4684-b930-c11f022975ec@dlbgwqqngrjbwan.jiedddym.com:42868?security=reality&type=tcp&sni=www.apple.com&path=&flow=xtls-rprx-vision&pbk=GLtdhq3ZSKYlJv62ye5dFKfjI3UF9mBIGOl5ms75rVA&sid=747a75eb5ecef8#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20City%20One%20%7C%20%5BBL%5D",
+          "host": "dlbgwqqngrjbwan.jiedddym.com",
+          "port": 42868,
+          "latency_ms": 140.8,
+          "first_seen": "2026-09-13T20:32:36Z"
+        },
+        {
+          "key": "vless://8952ecb7-4b85-4aa5-8b22-adc9aa4d3591@47.83.4.146:443?&security=reality&flow=xtls-rprx-vision&pbk=ID53PilNajhqBP3PTJJxurZOFnZfKVs-CU5buNOaKBQ&sid=e40b98d40e53b8b9&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D",
+          "host": "47.83.4.146",
+          "port": 443,
+          "latency_ms": 141.2,
+          "first_seen": "2026-09-13T20:32:36Z"
+        },
+        {
+          "key": "vless://8952ecb7-4b85-4aa5-8b22-adc9aa4d3591@47.83.4.146:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ID53PilNajhqBP3PTJJxurZOFnZfKVs-CU5buNOaKBQ&security=reality&sid=e40b98d40e53b8b9&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D",
+          "host": "47.83.4.146",
+          "port": 443,
+          "latency_ms": 142.0,
+          "first_seen": "2026-09-13T20:32:36Z"
+        },
+        {
+          "key": "vless://bca6f15f-89db-40e2-a955-19d084229234@47.83.173.110:443?&security=reality&flow=xtls-rprx-vision&pbk=BqFbrSSosM7RAVvUGTRmCrZlHY6aGwq9HEJs0fMdK0s&sid=8144589880395fa1&fp=chrome&sni=www.samsung.com&type=tcp&headerType=none&host=www.samsung.com&path=%2F#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D",
+          "host": "47.83.173.110",
+          "port": 443,
+          "latency_ms": 142.8,
+          "first_seen": "2026-09-13T20:32:36Z"
+        },
+        {
+          "key": "vless://6dbb8854-17a5-4684-b930-c11f022975ec@dlbgwqqngrjbwan.jiedddym.com:42868?&security=reality&flow=xtls-rprx-vision&pbk=GLtdhq3ZSKYlJv62ye5dFKfjI3UF9mBIGOl5ms75rVA&sid=747a75eb5ecef8&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20City%20One%20%7C%20%5BBL%5D",
+          "host": "dlbgwqqngrjbwan.jiedddym.com",
+          "port": 42868,
+          "latency_ms": 143.0,
+          "first_seen": "2026-09-13T20:32:36Z"
+        },
+        {
+          "key": "vless://bca6f15f-89db-40e2-a955-19d084229234@47.83.173.110:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BqFbrSSosM7RAVvUGTRmCrZlHY6aGwq9HEJs0fMdK0s&security=reality&sid=8144589880395fa1&sni=www.samsung.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D",
+          "host": "47.83.173.110",
+          "port": 443,
+          "latency_ms": 143.6,
+          "first_seen": "2026-09-13T20:32:36Z"
+        },
+        {
+          "key": "vless://60baeb19-560d-402d-b9c9-c062c2350e0b@47.76.172.190:443?flow=xtls-rprx-vision&fp=chrome&pbk=9nukDgL8dc3PWV07DAwi-_FFj3Y25ifYnnrIp7uV0SI&security=reality&sid=92ddbafbf38306f5&sni=www.cloudflare.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D",
+          "host": "47.76.172.190",
+          "port": 443,
+          "latency_ms": 143.7,
+          "first_seen": "2026-09-13T20:32:36Z"
+        },
+        {
+          "key": "vless://6dbb8854-17a5-4684-b930-c11f022975ec@138.19.111.44:42868?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GLtdhq3ZSKYlJv62ye5dFKfjI3UF9mBIGOl5ms75rVA&security=reality&sid=747a75eb5ecef8&sni=www.apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20City%20One%20%7C%20%5BBL%5D",
+          "host": "138.19.111.44",
+          "port": 42868,
+          "latency_ms": 144.7,
+          "first_seen": "2026-09-13T20:32:36Z"
         }
       ],
-      "total_working": 3,
-      "total": 3,
+      "total_working": 11,
+      "total": 11,
       "flag": "🇭🇰"
     },
     "Italy": {
-      "best": "vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+      "best": "vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8&fp=safari#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
       "top10": [
         {
-          "key": "vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "key": "vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8&fp=safari#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
           "host": "172.238.232.239",
           "port": 32833,
-          "latency_ms": 107.3,
-          "first_seen": "2026-09-13T15:54:21Z"
-        },
-        {
-          "key": "vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8&fp=ios#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-          "host": "172.238.232.239",
-          "port": 32833,
-          "latency_ms": 109.2,
-          "first_seen": "2026-09-13T15:54:21Z"
+          "latency_ms": 161.4,
+          "first_seen": "2026-09-13T20:32:36Z"
         },
         {
           "key": "vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?type=tcp&security=reality&sni=www.intel.com&flow=xtls-rprx-vision&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&sid=a0a305ccc8e94aa8#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
           "host": "172.238.232.239",
           "port": 32833,
-          "latency_ms": 109.3,
-          "first_seen": "2026-09-13T15:54:21Z"
+          "latency_ms": 161.5,
+          "first_seen": "2026-09-13T20:32:36Z"
+        },
+        {
+          "key": "vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "host": "172.238.232.239",
+          "port": 32833,
+          "latency_ms": 164.6,
+          "first_seen": "2026-09-13T20:32:36Z"
+        },
+        {
+          "key": "vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8&fp=ios#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "host": "172.238.232.239",
+          "port": 32833,
+          "latency_ms": 164.6,
+          "first_seen": "2026-09-13T20:32:36Z"
         },
         {
           "key": "vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
           "host": "172.238.232.239",
           "port": 32833,
-          "latency_ms": 112.9,
-          "first_seen": "2026-09-13T15:54:21Z"
+          "latency_ms": 166.5,
+          "first_seen": "2026-09-13T20:32:36Z"
         },
         {
-          "key": "vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8&fp=safari#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "key": "vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&security=reality&sid=a0a305ccc8e94aa8&sni=www.intel.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
           "host": "172.238.232.239",
           "port": 32833,
-          "latency_ms": 116.0,
-          "first_seen": "2026-09-13T15:54:21Z"
+          "latency_ms": 169.0,
+          "first_seen": "2026-09-13T20:32:36Z"
         }
       ],
-      "total_working": 5,
-      "total": 5,
+      "total_working": 6,
+      "total": 6,
       "flag": "🇮🇹"
     },
     "Japan": {
-      "best": "vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?security=reality&encryption=none&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=03653bc03be10c97#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+      "best": "vless://fdb25e5e-d99a-468c-aa13-0fe9892771b6@45.66.218.187:50159?security=reality&encryption=none&pbk=GBSyMDmBSz4C-brs0GYG6HXNb2CyWANvkBrd8W1GDU0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=6b22ad2202d70547#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D",
       "top10": [
         {
-          "key": "vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?security=reality&encryption=none&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=03653bc03be10c97#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-          "host": "18.183.215.124",
-          "port": 28573,
-          "latency_ms": 164.8,
-          "first_seen": "2026-09-13T15:54:21Z"
+          "key": "vless://fdb25e5e-d99a-468c-aa13-0fe9892771b6@45.66.218.187:50159?security=reality&encryption=none&pbk=GBSyMDmBSz4C-brs0GYG6HXNb2CyWANvkBrd8W1GDU0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=6b22ad2202d70547#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D",
+          "host": "45.66.218.187",
+          "port": 50159,
+          "latency_ms": 99.6,
+          "first_seen": "2026-09-13T20:32:36Z"
         },
         {
-          "key": "vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?flow=xtls-rprx-vision&host=www.sony.com&path=%2F&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&security=reality&sid=03653bc03be10c97&sni=www.sony.com&type=tcp&fp=ios#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "key": "vless://fdb25e5e-d99a-468c-aa13-0fe9892771b6@45.66.218.187:50159?&security=reality&flow=xtls-rprx-vision&pbk=GBSyMDmBSz4C-brs0GYG6HXNb2CyWANvkBrd8W1GDU0&sid=6b22ad2202d70547&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D",
+          "host": "45.66.218.187",
+          "port": 50159,
+          "latency_ms": 100.8,
+          "first_seen": "2026-09-13T20:32:36Z"
+        },
+        {
+          "key": "vless://6dbb8854-17a5-4684-b930-c11f022975ec@8.222.91.156:49921?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1ejQLdV5c4EDRnsR56OJzNBRNE1SR59vF9ZR2FYTonI&security=reality&sid=5a80eca0ce05a6&sni=www.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D",
+          "host": "8.222.91.156",
+          "port": 49921,
+          "latency_ms": 104.0,
+          "first_seen": "2026-09-13T20:32:36Z"
+        },
+        {
+          "key": "vless://6dbb8854-17a5-4684-b930-c11f022975ec@jprbhhzalybqwjok.jiedddym.com:49921?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1ejQLdV5c4EDRnsR56OJzNBRNE1SR59vF9ZR2FYTonI&sid=5a80eca0ce05a6#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D",
+          "host": "jprbhhzalybqwjok.jiedddym.com",
+          "port": 49921,
+          "latency_ms": 116.7,
+          "first_seen": "2026-09-13T20:32:36Z"
+        },
+        {
+          "key": "vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?flow=xtls-rprx-vision&fp=firefox&host=www.sony.com&path=%2F&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&security=reality&sid=03653bc03be10c97&sni=www.sony.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
           "host": "18.183.215.124",
           "port": 28573,
-          "latency_ms": 167.1,
-          "first_seen": "2026-09-13T15:54:21Z"
+          "latency_ms": 150.7,
+          "first_seen": "2026-09-13T20:32:36Z"
         }
       ],
-      "total_working": 2,
-      "total": 2,
+      "total_working": 5,
+      "total": 8,
       "flag": "🇯🇵"
     },
     "Kazakhstan": {
-      "best": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&mode=gun&security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&type=grpc&serviceName=TunService&sni=dl.dell.com&fp=qq#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Aktobe%20%7C%20%5BBL%5D",
+      "best": "vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@62.233.39.9:443?path=%2F&security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&fp=chrome&type=xhttp&sni=dl.dell.com#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Aktobe%20%7C%20%5BBL%5D",
       "top10": [
         {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&mode=gun&security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&type=grpc&serviceName=TunService&sni=dl.dell.com&fp=qq#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Aktobe%20%7C%20%5BBL%5D",
+          "key": "vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@62.233.39.9:443?path=%2F&security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&fp=chrome&type=xhttp&sni=dl.dell.com#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Aktobe%20%7C%20%5BBL%5D",
           "host": "62.233.39.9",
-          "port": 8443,
-          "latency_ms": 124.1,
-          "first_seen": "2026-09-13T15:54:21Z"
-        },
-        {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&mode=gun&security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&type=grpc&serviceName=TunService&sni=dl.dell.com&fp=ios#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Aktobe%20%7C%20%5BBL%5D",
-          "host": "62.233.39.9",
-          "port": 8443,
-          "latency_ms": 126.9,
-          "first_seen": "2026-09-13T15:54:21Z"
-        },
-        {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&mode=gun&security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&type=grpc&serviceName=TunService&sni=dl.dell.com&fp=safari#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Aktobe%20%7C%20%5BBL%5D",
-          "host": "62.233.39.9",
-          "port": 8443,
-          "latency_ms": 127.5,
-          "first_seen": "2026-09-13T15:54:21Z"
-        },
-        {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?encryption=none&fp=firefox&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&security=reality&serviceName=TunService&sni=dl.dell.com&type=grpc#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Aktobe%20%7C%20%5BBL%5D",
-          "host": "62.233.39.9",
-          "port": 8443,
-          "latency_ms": 134.5,
-          "first_seen": "2026-09-13T15:54:21Z"
+          "port": 443,
+          "latency_ms": 160.9,
+          "first_seen": "2026-09-13T20:32:41Z"
         },
         {
           "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?mode=gun&security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&fp=chrome&type=grpc&serviceName=TunService&sni=dl.dell.com#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Aktobe%20%7C%20%5BBL%5D",
           "host": "62.233.39.9",
           "port": 8443,
-          "latency_ms": 136.8,
-          "first_seen": "2026-09-13T15:54:21Z"
+          "latency_ms": 161.8,
+          "first_seen": "2026-09-13T20:32:41Z"
+        },
+        {
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&mode=gun&security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&type=grpc&serviceName=TunService&sni=dl.dell.com&fp=ios#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Aktobe%20%7C%20%5BBL%5D",
+          "host": "62.233.39.9",
+          "port": 8443,
+          "latency_ms": 163.6,
+          "first_seen": "2026-09-13T20:32:41Z"
+        },
+        {
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&mode=gun&security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&type=grpc&serviceName=TunService&sni=dl.dell.com&fp=qq#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Aktobe%20%7C%20%5BBL%5D",
+          "host": "62.233.39.9",
+          "port": 8443,
+          "latency_ms": 169.9,
+          "first_seen": "2026-09-13T20:32:41Z"
+        },
+        {
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&mode=gun&security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&type=grpc&serviceName=TunService&sni=dl.dell.com&fp=edge#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Aktobe%20%7C%20%5BBL%5D",
+          "host": "62.233.39.9",
+          "port": 8443,
+          "latency_ms": 188.3,
+          "first_seen": "2026-09-13T20:32:41Z"
         }
       ],
       "total_working": 5,
@@ -308,361 +403,425 @@
       "flag": "🇰🇿"
     },
     "Malaysia": {
-      "best": "vless://e8358eb5-7210-4cf8-982f-68af141b7694@56.69.159.191:53271?security=reality&encryption=none&pbk=1P58ZYmo81kPDnL4U7SnEUA-aT2R86l-o6dbFXoeDjc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=0a9bd9db19578964#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+      "best": "vless://e8358eb5-7210-4cf8-982f-68af141b7694@56.69.159.191:53271?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1P58ZYmo81kPDnL4U7SnEUA-aT2R86l-o6dbFXoeDjc&sid=0a9bd9db19578964&sni=www.tesla.com#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
       "top10": [
+        {
+          "key": "vless://e8358eb5-7210-4cf8-982f-68af141b7694@56.69.159.191:53271?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1P58ZYmo81kPDnL4U7SnEUA-aT2R86l-o6dbFXoeDjc&sid=0a9bd9db19578964&sni=www.tesla.com#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "host": "56.69.159.191",
+          "port": 53271,
+          "latency_ms": 168.7,
+          "first_seen": "2026-09-13T20:32:41Z"
+        },
         {
           "key": "vless://e8358eb5-7210-4cf8-982f-68af141b7694@56.69.159.191:53271?security=reality&encryption=none&pbk=1P58ZYmo81kPDnL4U7SnEUA-aT2R86l-o6dbFXoeDjc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=0a9bd9db19578964#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
           "host": "56.69.159.191",
           "port": 53271,
-          "latency_ms": 266.9,
-          "first_seen": "2026-09-13T15:54:21Z"
+          "latency_ms": 169.5,
+          "first_seen": "2026-09-13T20:32:41Z"
+        },
+        {
+          "key": "vless://e8358eb5-7210-4cf8-982f-68af141b7694@56.69.159.191:53271?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=1P58ZYmo81kPDnL4U7SnEUA-aT2R86l-o6dbFXoeDjc&sid=0a9bd9db19578964&sni=www.tesla.com&fp=safari#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "host": "56.69.159.191",
+          "port": 53271,
+          "latency_ms": 173.3,
+          "first_seen": "2026-09-13T20:32:41Z"
         }
       ],
-      "total_working": 1,
-      "total": 1,
+      "total_working": 3,
+      "total": 3,
       "flag": "🇲🇾"
     },
     "Singapore": {
-      "best": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@217.60.7.121:2053?encryption=none&security=tls&sni=singapore.36109178.xyz&fp=edge&type=ws&path=%2Fstatic%2Fmedia%2Fvideo-chunk.f4v&host=singapore.36109178.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Jurong%20East%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+      "best": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@217.60.7.121:2053?encryption=none&security=tls&sni=singapore.36109178.xyz&type=ws&path=%2Fstatic%2Fmedia%2Fvideo-chunk.f4v&host=singapore.36109178.xyz&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Jurong%20East%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
       "top10": [
+        {
+          "key": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@217.60.7.121:2053?encryption=none&security=tls&sni=singapore.36109178.xyz&type=ws&path=%2Fstatic%2Fmedia%2Fvideo-chunk.f4v&host=singapore.36109178.xyz&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Jurong%20East%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "host": "217.60.7.121",
+          "port": 2053,
+          "latency_ms": 61.3,
+          "first_seen": "2026-09-13T20:32:41Z"
+        },
         {
           "key": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@217.60.7.121:2053?encryption=none&security=tls&sni=singapore.36109178.xyz&fp=edge&type=ws&path=%2Fstatic%2Fmedia%2Fvideo-chunk.f4v&host=singapore.36109178.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Jurong%20East%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
           "host": "217.60.7.121",
           "port": 2053,
-          "latency_ms": 14.0,
-          "first_seen": "2026-09-13T15:54:21Z"
-        },
-        {
-          "key": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@142.248.219.193:2053?encryption=none&security=tls&sni=singapore.36109178.xyz&fp=edge&type=ws&path=%2Fstatic%2Fmedia%2Fvideo-chunk.f4v&host=singapore.36109178.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Jurong%20East%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-          "host": "142.248.219.193",
-          "port": 2053,
-          "latency_ms": 52.0,
-          "first_seen": "2026-09-13T15:54:21Z"
-        },
-        {
-          "key": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@142.248.219.42:2053?encryption=none&security=tls&sni=singapore.36109178.xyz&fp=edge&type=ws&path=%2Fstatic%2Fmedia%2Fvideo-chunk.f4v&host=singapore.36109178.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Jurong%20East%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-          "host": "142.248.219.42",
-          "port": 2053,
-          "latency_ms": 52.0,
-          "first_seen": "2026-09-13T15:54:21Z"
-        },
-        {
-          "key": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@142.248.218.244:2053?encryption=none&security=tls&sni=singapore.36109178.xyz&fp=edge&type=ws&path=%2Fstatic%2Fmedia%2Fvideo-chunk.f4v&host=singapore.36109178.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Jurong%20East%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-          "host": "142.248.218.244",
-          "port": 2053,
-          "latency_ms": 52.2,
-          "first_seen": "2026-09-13T15:54:21Z"
-        },
-        {
-          "key": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@142.248.218.236:2053?encryption=none&security=tls&sni=singapore.36109178.xyz&fp=edge&type=ws&path=%2Fstatic%2Fmedia%2Fvideo-chunk.f4v&host=singapore.36109178.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Jurong%20East%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-          "host": "142.248.218.236",
-          "port": 2053,
-          "latency_ms": 52.3,
-          "first_seen": "2026-09-13T15:54:21Z"
-        },
-        {
-          "key": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@142.248.218.161:2053?encryption=none&security=tls&sni=singapore.36109178.xyz&fp=edge&type=ws&path=%2Fstatic%2Fmedia%2Fvideo-chunk.f4v&host=singapore.36109178.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Jurong%20East%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-          "host": "142.248.218.161",
-          "port": 2053,
-          "latency_ms": 52.4,
-          "first_seen": "2026-09-13T15:54:21Z"
-        },
-        {
-          "key": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@142.248.219.81:2053?encryption=none&security=tls&sni=singapore.36109178.xyz&fp=edge&type=ws&path=%2Fstatic%2Fmedia%2Fvideo-chunk.f4v&host=singapore.36109178.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Jurong%20East%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-          "host": "142.248.219.81",
-          "port": 2053,
-          "latency_ms": 52.4,
-          "first_seen": "2026-09-13T15:54:21Z"
-        },
-        {
-          "key": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@142.248.218.109:2053?encryption=none&security=tls&sni=singapore.36109178.xyz&fp=edge&type=ws&path=%2Fstatic%2Fmedia%2Fvideo-chunk.f4v&host=singapore.36109178.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Jurong%20East%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-          "host": "142.248.218.109",
-          "port": 2053,
-          "latency_ms": 52.5,
-          "first_seen": "2026-09-13T15:54:21Z"
+          "latency_ms": 65.9,
+          "first_seen": "2026-09-13T20:32:41Z"
         },
         {
           "key": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@91.228.154.112:2053?encryption=none&security=tls&sni=singapore.36109178.xyz&fp=edge&type=ws&path=%2Fstatic%2Fmedia%2Fvideo-chunk.f4v&host=singapore.36109178.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Jurong%20East%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
           "host": "91.228.154.112",
           "port": 2053,
-          "latency_ms": 102.7,
-          "first_seen": "2026-09-13T15:54:21Z"
+          "latency_ms": 146.9,
+          "first_seen": "2026-09-13T20:32:41Z"
         },
         {
-          "key": "vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?flow=xtls-rprx-vision&fp=firefox&host=www.intel.com&path=%2F&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&security=reality&sid=7f342137c20387&sni=www.intel.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "key": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@91.228.154.112:2053?encryption=none&security=tls&sni=singapore.36109178.xyz&type=ws&path=%2Fstatic%2Fmedia%2Fvideo-chunk.f4v&host=singapore.36109178.xyz&fp=android#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Jurong%20East%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "host": "91.228.154.112",
+          "port": 2053,
+          "latency_ms": 153.5,
+          "first_seen": "2026-09-13T20:32:41Z"
+        },
+        {
+          "key": "vless://1a049739-b873-4242-9a2b-239951eb2dd3@163.128.99.36:443?security=reality&type=tcp&sni=www.apple.com&path=&flow=xtls-rprx-vision&pbk=4S52pKhsJA4gK-_MLW8_R8TTeZsS4pH7ef6St-aKVBQ&sid=ab1df8505f6e0072#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Queenstown%20Estate%29%20%7C%20%5BBL%5D",
+          "host": "163.128.99.36",
+          "port": 443,
+          "latency_ms": 161.3,
+          "first_seen": "2026-09-13T20:32:41Z"
+        },
+        {
+          "key": "vless://1a049739-b873-4242-9a2b-239951eb2dd3@163.128.99.36:443?&security=reality&flow=xtls-rprx-vision&pbk=4S52pKhsJA4gK-_MLW8_R8TTeZsS4pH7ef6St-aKVBQ&sid=ab1df8505f6e0072&fp=safari&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Queenstown%20Estate%29%20%7C%20%5BBL%5D",
+          "host": "163.128.99.36",
+          "port": 443,
+          "latency_ms": 162.3,
+          "first_seen": "2026-09-13T20:32:41Z"
+        },
+        {
+          "key": "vless://1a049739-b873-4242-9a2b-239951eb2dd3@163.128.99.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4S52pKhsJA4gK-_MLW8_R8TTeZsS4pH7ef6St-aKVBQ&security=reality&sid=ab1df8505f6e0072&sni=www.apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Queenstown%20Estate%29%20%7C%20%5BBL%5D",
+          "host": "163.128.99.36",
+          "port": 443,
+          "latency_ms": 162.3,
+          "first_seen": "2026-09-13T20:32:41Z"
+        },
+        {
+          "key": "vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
           "host": "54.169.200.246",
           "port": 41688,
-          "latency_ms": 227.4,
-          "first_seen": "2026-09-13T15:54:21Z"
+          "latency_ms": 168.0,
+          "first_seen": "2026-09-13T20:32:41Z"
+        },
+        {
+          "key": "vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "host": "54.251.9.130",
+          "port": 24146,
+          "latency_ms": 169.2,
+          "first_seen": "2026-09-13T20:32:41Z"
+        },
+        {
+          "key": "vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?encryption=none&flow=xtls-rprx-vision&fp=&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&security=reality&sid=7f342137c20387&sni=www.intel.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "host": "54.169.200.246",
+          "port": 41688,
+          "latency_ms": 169.3,
+          "first_seen": "2026-09-13T20:32:41Z"
         }
       ],
-      "total_working": 17,
-      "total": 17,
+      "total_working": 15,
+      "total": 15,
       "flag": "🇸🇬"
     },
-    "Taiwan": {
-      "best": "vless://b0342e8a-a25e-4e30-b598-d9391b0df4c9@34.80.184.198:44848?type=tcp&headerType=none&security=reality&encryption=none&sni=www.tesla.com&fp=qq&pbk=w9vWLOHjl46krA8IEpGoPI9scTL0rFdjCtjdukJDciU&sid=2338740580a5de&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D",
+    "South Korea": {
+      "best": "vless://581cb8c3-dadb-4e10-a18b-5e79bfe7bd93@47.80.14.8:443?flow=xtls-rprx-vision&fp=chrome&pbk=OBIHAXdhfYJ0PWsZjy3QYPRjTfMQlvjmBsTf1CT671w&security=reality&sid=71110d3f7ef57760&sni=www.samsung.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Yongsan-dong%20%7C%20%5BBL%5D",
       "top10": [
         {
-          "key": "vless://b0342e8a-a25e-4e30-b598-d9391b0df4c9@34.80.184.198:44848?type=tcp&headerType=none&security=reality&encryption=none&sni=www.tesla.com&fp=qq&pbk=w9vWLOHjl46krA8IEpGoPI9scTL0rFdjCtjdukJDciU&sid=2338740580a5de&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D",
-          "host": "34.80.184.198",
-          "port": 44848,
-          "latency_ms": 345.2,
-          "first_seen": "2026-09-13T15:54:22Z"
+          "key": "vless://581cb8c3-dadb-4e10-a18b-5e79bfe7bd93@47.80.14.8:443?flow=xtls-rprx-vision&fp=chrome&pbk=OBIHAXdhfYJ0PWsZjy3QYPRjTfMQlvjmBsTf1CT671w&security=reality&sid=71110d3f7ef57760&sni=www.samsung.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Yongsan-dong%20%7C%20%5BBL%5D",
+          "host": "47.80.14.8",
+          "port": 443,
+          "latency_ms": 121.9,
+          "first_seen": "2026-09-13T20:32:42Z"
+        }
+      ],
+      "total_working": 1,
+      "total": 2,
+      "flag": "🇰🇷"
+    },
+    "Taiwan": {
+      "best": "vless://6dbb8854-17a5-4684-b930-c11f022975ec@wwbqwqqnlyydssc.cfooov.xyz:39817?&security=reality&flow=xtls-rprx-vision&pbk=uzaav8KrDeu1P9qdg6fDfxmq9Z6vV6a-WVPTWX1zIj4&sid=0044d4f490e795b8&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+      "top10": [
+        {
+          "key": "vless://6dbb8854-17a5-4684-b930-c11f022975ec@wwbqwqqnlyydssc.cfooov.xyz:39817?&security=reality&flow=xtls-rprx-vision&pbk=uzaav8KrDeu1P9qdg6fDfxmq9Z6vV6a-WVPTWX1zIj4&sid=0044d4f490e795b8&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "host": "wwbqwqqnlyydssc.cfooov.xyz",
+          "port": 39817,
+          "latency_ms": 196.8,
+          "first_seen": "2026-09-13T20:32:47Z"
+        },
+        {
+          "key": "vless://6dbb8854-17a5-4684-b930-c11f022975ec@wwbqwqqnlyydssc.cfooov.xyz:39817?security=reality&type=tcp&sni=www.apple.com&path=&flow=xtls-rprx-vision&pbk=uzaav8KrDeu1P9qdg6fDfxmq9Z6vV6a-WVPTWX1zIj4&sid=0044d4f490e795b8#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "host": "wwbqwqqnlyydssc.cfooov.xyz",
+          "port": 39817,
+          "latency_ms": 199.2,
+          "first_seen": "2026-09-13T20:32:47Z"
         },
         {
           "key": "vless://b0342e8a-a25e-4e30-b598-d9391b0df4c9@34.80.184.198:44848?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=w9vWLOHjl46krA8IEpGoPI9scTL0rFdjCtjdukJDciU&sid=2338740580a5de&sni=www.tesla.com#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D",
           "host": "34.80.184.198",
           "port": 44848,
-          "latency_ms": 347.3,
-          "first_seen": "2026-09-13T15:54:22Z"
+          "latency_ms": 223.4,
+          "first_seen": "2026-09-13T20:32:47Z"
+        }
+      ],
+      "total_working": 3,
+      "total": 3,
+      "flag": "🇹🇼"
+    },
+    "Turkey": {
+      "best": "vless://953358cb-82ba-4296-960d-6d2ec3468f4c@13.143.137.164:9443?security=reality&encryption=none&sni=plaincanvas.videoclothing.xyz&fp=chrome&pbk=dZ0rhO_PL67-Ciwc6CHQgtde3a5EUUuReA7M-lRNCDQ&sid=e336c9a786fae301&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D",
+      "top10": [
+        {
+          "key": "vless://953358cb-82ba-4296-960d-6d2ec3468f4c@13.143.137.164:9443?security=reality&encryption=none&sni=plaincanvas.videoclothing.xyz&fp=chrome&pbk=dZ0rhO_PL67-Ciwc6CHQgtde3a5EUUuReA7M-lRNCDQ&sid=e336c9a786fae301&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D",
+          "host": "13.143.137.164",
+          "port": 9443,
+          "latency_ms": 179.2,
+          "first_seen": "2026-09-13T20:32:47Z"
+        },
+        {
+          "key": "vless://953358cb-82ba-4296-960d-6d2ec3468f4c@13.143.137.164:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dZ0rhO_PL67-Ciwc6CHQgtde3a5EUUuReA7M-lRNCDQ&security=reality&sid=e336c9a786fae301&sni=plaincanvas.videoclothing.xyz&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D",
+          "host": "13.143.137.164",
+          "port": 9443,
+          "latency_ms": 181.7,
+          "first_seen": "2026-09-13T20:32:47Z"
         }
       ],
       "total_working": 2,
       "total": 2,
-      "flag": "🇹🇼"
-    },
-    "Turkey": {
-      "best": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D",
-      "top10": [
-        {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D",
-          "host": "170.168.97.8",
-          "port": 8443,
-          "latency_ms": 118.3,
-          "first_seen": "2026-09-13T15:54:22Z"
-        },
-        {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?encryption=none&fp=firefox&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D",
-          "host": "170.168.97.8",
-          "port": 8443,
-          "latency_ms": 128.6,
-          "first_seen": "2026-09-13T15:54:22Z"
-        }
-      ],
-      "total_working": 2,
-      "total": 3,
       "flag": "🇹🇷"
     },
     "Ukraine": {
-      "best": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:443?mode=auto&path=/&security=reality&encryption=none&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D",
+      "best": "vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?type=grpc&mode=multi&serviceName=vless#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D",
       "top10": [
         {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:443?mode=auto&path=/&security=reality&encryption=none&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D",
-          "host": "170.168.97.8",
-          "port": 443,
-          "latency_ms": 140.4,
-          "first_seen": "2026-09-13T15:54:24Z"
+          "key": "vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?type=grpc&mode=multi&serviceName=vless#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D",
+          "host": "104.143.223.217",
+          "port": 2085,
+          "latency_ms": 155.2,
+          "first_seen": "2026-09-13T20:32:47Z"
         },
         {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?mode=gun&security=reality&encryption=none&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&fp=chrome&type=grpc&serviceName=TunService&sni=www.hp.com#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D",
-          "host": "170.168.97.8",
-          "port": 8443,
-          "latency_ms": 141.3,
-          "first_seen": "2026-09-13T15:54:24Z"
-        },
-        {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:443?encryption=none&fp=firefox&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo&security=reality&sni=cdn.steamstatic.com&type=xhttp#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D",
-          "host": "170.168.97.8",
-          "port": 443,
-          "latency_ms": 142.4,
-          "first_seen": "2026-09-13T15:54:24Z"
-        },
-        {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?type=grpc&security=reality&fp=firefox&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&sni=www.hp.com&serviceName=TunService#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D",
-          "host": "170.168.97.8",
-          "port": 8443,
-          "latency_ms": 157.3,
-          "first_seen": "2026-09-13T15:54:24Z"
+          "key": "vless://d6e792d5-ea82-4e6c-b679-89f49ff7996e@104.143.223.66:2085?type=grpc&serviceName=vless#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D",
+          "host": "104.143.223.66",
+          "port": 2085,
+          "latency_ms": 155.5,
+          "first_seen": "2026-09-13T20:32:47Z"
         }
       ],
-      "total_working": 4,
-      "total": 4,
+      "total_working": 2,
+      "total": 2,
       "flag": "🇺🇦"
     },
     "United Arab Emirates": {
-      "best": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:443?encryption=none&fp=firefox&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&security=reality&sni=download.nvidia.com&type=xhttp#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Abu%20Dhabi%20%7C%20%5BBL%5D",
+      "best": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:8443?mode=gun&security=reality&encryption=none&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Abu%20Dhabi%20%7C%20%5BBL%5D",
       "top10": [
         {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:443?encryption=none&fp=firefox&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&security=reality&sni=download.nvidia.com&type=xhttp#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Abu%20Dhabi%20%7C%20%5BBL%5D",
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:8443?mode=gun&security=reality&encryption=none&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Abu%20Dhabi%20%7C%20%5BBL%5D",
+          "host": "89.47.55.8",
+          "port": 8443,
+          "latency_ms": 160.8,
+          "first_seen": "2026-09-13T20:32:47Z"
+        },
+        {
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:8443?mode=gun&security=reality&encryption=none&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=grpc&serviceName=TunService&sni=www.canon.com#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Abu%20Dhabi%20%7C%20%5BBL%5D",
+          "host": "89.47.55.8",
+          "port": 8443,
+          "latency_ms": 161.3,
+          "first_seen": "2026-09-13T20:32:47Z"
+        },
+        {
+          "key": "vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@89.47.55.8:443?path=%2F&security=reality&encryption=none&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=xhttp&sni=www.canon.com#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Abu%20Dhabi%20%7C%20%5BBL%5D",
           "host": "89.47.55.8",
           "port": 443,
-          "latency_ms": 122.7,
-          "first_seen": "2026-09-13T15:54:24Z"
+          "latency_ms": 162.6,
+          "first_seen": "2026-09-13T20:32:47Z"
         },
         {
           "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:443?mode=auto&path=/&security=reality&encryption=none&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&fp=chrome&type=xhttp&sni=download.nvidia.com#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Abu%20Dhabi%20%7C%20%5BBL%5D",
           "host": "89.47.55.8",
           "port": 443,
-          "latency_ms": 125.6,
-          "first_seen": "2026-09-13T15:54:24Z"
+          "latency_ms": 163.4,
+          "first_seen": "2026-09-13T20:32:47Z"
         },
         {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:8443?mode=gun&security=reality&encryption=none&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Abu%20Dhabi%20%7C%20%5BBL%5D",
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&type=xhttp&sni=download.nvidia.com&fp=edge#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Abu%20Dhabi%20%7C%20%5BBL%5D",
+          "host": "89.47.55.8",
+          "port": 443,
+          "latency_ms": 163.4,
+          "first_seen": "2026-09-13T20:32:47Z"
+        },
+        {
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:443?fp=chrome&mode=auto&path=%2F&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&security=reality&sni=www.canon.com&type=xhttp#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Abu%20Dhabi%20%7C%20%5BBL%5D",
+          "host": "89.47.55.8",
+          "port": 443,
+          "latency_ms": 163.5,
+          "first_seen": "2026-09-13T20:32:47Z"
+        },
+        {
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:8443?encryption=none&fp=firefox&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Abu%20Dhabi%20%7C%20%5BBL%5D",
           "host": "89.47.55.8",
           "port": 8443,
-          "latency_ms": 130.5,
-          "first_seen": "2026-09-13T15:54:24Z"
+          "latency_ms": 165.1,
+          "first_seen": "2026-09-13T20:32:47Z"
+        },
+        {
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:443?encryption=none&fp=firefox&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&security=reality&sni=download.nvidia.com&type=xhttp#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Abu%20Dhabi%20%7C%20%5BBL%5D",
+          "host": "89.47.55.8",
+          "port": 443,
+          "latency_ms": 190.2,
+          "first_seen": "2026-09-13T20:32:47Z"
+        },
+        {
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:443?encryption=none&fp=firefox&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&security=reality&sni=www.canon.com&type=xhttp#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Abu%20Dhabi%20%7C%20%5BBL%5D",
+          "host": "89.47.55.8",
+          "port": 443,
+          "latency_ms": 190.8,
+          "first_seen": "2026-09-13T20:32:47Z"
         }
       ],
-      "total_working": 3,
-      "total": 3,
+      "total_working": 9,
+      "total": 12,
       "flag": "🇦🇪"
     },
     "United Kingdom": {
-      "best": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:443?mode=auto&path=/&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=xhttp&sni=download.nvidia.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
+      "best": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&type=xhttp&sni=download.nvidia.com&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
       "top10": [
         {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:443?mode=auto&path=/&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=xhttp&sni=download.nvidia.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&type=xhttp&sni=download.nvidia.com&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
           "host": "62.233.39.9",
           "port": 443,
-          "latency_ms": 117.0,
-          "first_seen": "2026-09-13T15:54:25Z"
+          "latency_ms": 159.0,
+          "first_seen": "2026-09-13T20:32:50Z"
         },
         {
-          "key": "vless://391a01e9-b664-407b-9158-610fab3f5920@3.9.135.156:51847?security=reality&encryption=none&pbk=S6noV0L8eNASnTe1gXLutLZNdfENsvKMsOJiGQYi6nc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=0eec442e7b34d2f2#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc&fp=ios#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
+          "host": "62.233.39.9",
+          "port": 8443,
+          "latency_ms": 161.1,
+          "first_seen": "2026-09-13T20:32:50Z"
+        },
+        {
+          "key": "vless://391a01e9-b664-407b-9158-610fab3f5920@3.9.135.156:51847?security=reality&encryption=none&pbk=S6noV0L8eNASnTe1gXLutLZNdfENsvKMsOJiGQYi6nc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=0eec442e7b34d2f2&fp=ios#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
           "host": "3.9.135.156",
           "port": 51847,
-          "latency_ms": 117.2,
-          "first_seen": "2026-09-13T15:54:25Z"
+          "latency_ms": 161.2,
+          "first_seen": "2026-09-13T20:32:50Z"
         },
         {
           "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&type=xhttp&sni=download.nvidia.com&fp=ios#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
           "host": "62.233.39.9",
           "port": 443,
-          "latency_ms": 118.6,
-          "first_seen": "2026-09-13T15:54:25Z"
+          "latency_ms": 162.4,
+          "first_seen": "2026-09-13T20:32:50Z"
         },
         {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&type=xhttp&sni=download.nvidia.com&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
-          "host": "62.233.39.9",
-          "port": 443,
-          "latency_ms": 130.3,
-          "first_seen": "2026-09-13T15:54:25Z"
-        },
-        {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?mode=gun&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
-          "host": "62.233.39.9",
-          "port": 8443,
-          "latency_ms": 130.6,
-          "first_seen": "2026-09-13T15:54:25Z"
-        },
-        {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?encryption=none&fp=firefox&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
-          "host": "62.233.39.9",
-          "port": 8443,
-          "latency_ms": 131.5,
-          "first_seen": "2026-09-13T15:54:25Z"
+          "key": "vless://391a01e9-b664-407b-9158-610fab3f5920@3.9.135.156:51847?security=reality&encryption=none&pbk=S6noV0L8eNASnTe1gXLutLZNdfENsvKMsOJiGQYi6nc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=0eec442e7b34d2f2#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+          "host": "3.9.135.156",
+          "port": 51847,
+          "latency_ms": 163.7,
+          "first_seen": "2026-09-13T20:32:50Z"
         },
         {
           "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?mode=gun&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&type=grpc&serviceName=TunService&sni=download.nvidia.com&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
           "host": "62.233.39.9",
           "port": 8443,
-          "latency_ms": 132.0,
-          "first_seen": "2026-09-13T15:54:25Z"
+          "latency_ms": 164.4,
+          "first_seen": "2026-09-13T20:32:50Z"
+        },
+        {
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:443?mode=auto&path=/&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=xhttp&sni=download.nvidia.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
+          "host": "62.233.39.9",
+          "port": 443,
+          "latency_ms": 164.9,
+          "first_seen": "2026-09-13T20:32:50Z"
         },
         {
           "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:443?encryption=none&path=%2F&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&sni=download.nvidia.com&type=xhttp&fp=qq#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
           "host": "62.233.39.9",
           "port": 443,
-          "latency_ms": 132.4,
-          "first_seen": "2026-09-13T15:54:25Z"
+          "latency_ms": 166.0,
+          "first_seen": "2026-09-13T20:32:50Z"
         },
         {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:443?encryption=none&fp=firefox&path=/&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&sni=download.nvidia.com&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc&fp=qq#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
           "host": "62.233.39.9",
-          "port": 443,
-          "latency_ms": 132.7,
-          "first_seen": "2026-09-13T15:54:25Z"
+          "port": 8443,
+          "latency_ms": 170.0,
+          "first_seen": "2026-09-13T20:32:50Z"
         },
         {
-          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&type=xhttp&sni=download.nvidia.com&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
+          "key": "vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?mode=gun&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
           "host": "62.233.39.9",
-          "port": 443,
-          "latency_ms": 135.5,
-          "first_seen": "2026-09-13T15:54:25Z"
+          "port": 8443,
+          "latency_ms": 170.3,
+          "first_seen": "2026-09-13T20:32:50Z"
         }
       ],
-      "total_working": 11,
-      "total": 11,
+      "total_working": 13,
+      "total": 13,
       "flag": "🇬🇧"
     },
     "United States": {
-      "best": "vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:443?encryption=none&security=reality&sni=dl.kaspersky.com&fp=chrome&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&type=xhttp&path=/&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
+      "best": "vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@140.235.168.2:8443?mode=gun&security=reality&encryption=none&pbk=fCVnWVMTCS5fzMMTwk7EaBLlg4a2kAVDt2CG2jwobQ0&type=grpc&serviceName=TunService&sni=download.nvidia.com&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Tukwila%20%7C%20%5BBL%5D",
       "top10": [
         {
-          "key": "vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:443?encryption=none&security=reality&sni=dl.kaspersky.com&fp=chrome&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&type=xhttp&path=/&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
-          "host": "147.78.182.3",
-          "port": 443,
-          "latency_ms": 23.2,
-          "first_seen": "2026-09-13T15:54:25Z"
-        },
-        {
-          "key": "vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&type=grpc&serviceName=TunService&sni=dl.kaspersky.com&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
-          "host": "147.78.182.3",
+          "key": "vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@140.235.168.2:8443?mode=gun&security=reality&encryption=none&pbk=fCVnWVMTCS5fzMMTwk7EaBLlg4a2kAVDt2CG2jwobQ0&type=grpc&serviceName=TunService&sni=download.nvidia.com&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Tukwila%20%7C%20%5BBL%5D",
+          "host": "140.235.168.2",
           "port": 8443,
-          "latency_ms": 23.3,
-          "first_seen": "2026-09-13T15:54:25Z"
+          "latency_ms": 9.3,
+          "first_seen": "2026-09-13T20:32:52Z"
         },
         {
-          "key": "vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:8443?encryption=none&fp=&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&security=reality&serviceName=TunService&sni=www.epson.com&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
-          "host": "147.78.182.3",
+          "key": "vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@140.235.168.2:8443?mode=gun&security=reality&encryption=none&pbk=tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY&type=grpc&serviceName=TunService&sni=www.lenovo.com&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Tukwila%20%7C%20%5BBL%5D",
+          "host": "140.235.168.2",
           "port": 8443,
-          "latency_ms": 23.5,
-          "first_seen": "2026-09-13T15:54:25Z"
+          "latency_ms": 9.6,
+          "first_seen": "2026-09-13T20:32:52Z"
         },
         {
-          "key": "vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:8443?encryption=none&fp=&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
-          "host": "147.78.182.3",
+          "key": "vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@140.235.168.2:8443?mode=gun&security=reality&encryption=none&pbk=tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY&fp=chrome&type=grpc&serviceName=TunService&sni=www.lenovo.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Tukwila%20%7C%20%5BBL%5D",
+          "host": "140.235.168.2",
           "port": 8443,
-          "latency_ms": 23.8,
-          "first_seen": "2026-09-13T15:54:25Z"
+          "latency_ms": 9.7,
+          "first_seen": "2026-09-13T20:32:52Z"
         },
         {
-          "key": "vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:443?encryption=none&security=reality&sni=www.epson.com&fp=chrome&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&type=xhttp&path=/&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
-          "host": "147.78.182.3",
-          "port": 443,
-          "latency_ms": 25.4,
-          "first_seen": "2026-09-13T15:54:25Z"
-        },
-        {
-          "key": "vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:443?encryption=none&path=%2F&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&security=reality&sni=dl.kaspersky.com&type=xhttp&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
-          "host": "147.78.182.3",
-          "port": 443,
-          "latency_ms": 25.8,
-          "first_seen": "2026-09-13T15:54:25Z"
-        },
-        {
-          "key": "vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&type=grpc&serviceName=TunService&sni=dl.kaspersky.com&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
-          "host": "147.78.182.3",
+          "key": "vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@140.235.168.2:8443?encryption=none&fp=firefox&pbk=tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY&security=reality&serviceName=TunService&sni=www.lenovo.com&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Tukwila%20%7C%20%5BBL%5D",
+          "host": "140.235.168.2",
           "port": 8443,
-          "latency_ms": 27.2,
-          "first_seen": "2026-09-13T15:54:25Z"
+          "latency_ms": 9.9,
+          "first_seen": "2026-09-13T20:32:52Z"
         },
         {
-          "key": "vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:8443?mode=gun&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&type=grpc&serviceName=TunService&sni=dl.kaspersky.com&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
-          "host": "147.78.182.3",
+          "key": "vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@140.235.168.2:443?encryption=none&fp=firefox&pbk=fCVnWVMTCS5fzMMTwk7EaBLlg4a2kAVDt2CG2jwobQ0&security=reality&sni=download.nvidia.com&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Tukwila%20%7C%20%5BBL%5D",
+          "host": "140.235.168.2",
+          "port": 443,
+          "latency_ms": 10.4,
+          "first_seen": "2026-09-13T20:32:52Z"
+        },
+        {
+          "key": "vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@140.235.168.2:8443?mode=gun&security=reality&encryption=none&pbk=fCVnWVMTCS5fzMMTwk7EaBLlg4a2kAVDt2CG2jwobQ0&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Tukwila%20%7C%20%5BBL%5D",
+          "host": "140.235.168.2",
           "port": 8443,
-          "latency_ms": 28.8,
-          "first_seen": "2026-09-13T15:54:25Z"
+          "latency_ms": 11.2,
+          "first_seen": "2026-09-13T20:32:52Z"
         },
         {
-          "key": "vless://11f21602-47aa-42e2-9149-69120f2e6df6@45.91.138.179:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=36sTeaLdaAjQQxxzh492XihoPi2YxmttQyncmLuxYHE&security=reality&sid=169fc2df88419465&sni=us05.shifor01.life&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Miami%20%7C%20%5BBL%5D",
-          "host": "45.91.138.179",
+          "key": "vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@140.235.168.2:443?path=/&security=reality&encryption=none&pbk=fCVnWVMTCS5fzMMTwk7EaBLlg4a2kAVDt2CG2jwobQ0&fp=chrome&type=xhttp&sni=download.nvidia.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Tukwila%20%7C%20%5BBL%5D",
+          "host": "140.235.168.2",
           "port": 443,
-          "latency_ms": 37.0,
-          "first_seen": "2026-09-13T15:54:25Z"
+          "latency_ms": 12.8,
+          "first_seen": "2026-09-13T20:32:52Z"
         },
         {
-          "key": "vless://11f21602-47aa-42e2-9149-69120f2e6df6@us05.shifor01.life:443?type=tcp&headerType=none&security=reality&encryption=none&sni=us05.shifor01.life&fp=chrome&pbk=36sTeaLdaAjQQxxzh492XihoPi2YxmttQyncmLuxYHE&sid=169fc2df88419465&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Miami%20%7C%20%5BBL%5D",
-          "host": "us05.shifor01.life",
+          "key": "vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@140.235.168.2:443?path=%2F&security=reality&encryption=none&pbk=fCVnWVMTCS5fzMMTwk7EaBLlg4a2kAVDt2CG2jwobQ0&type=xhttp&sni=download.nvidia.com&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Tukwila%20%7C%20%5BBL%5D",
+          "host": "140.235.168.2",
           "port": 443,
-          "latency_ms": 37.9,
-          "first_seen": "2026-09-13T15:54:25Z"
+          "latency_ms": 13.2,
+          "first_seen": "2026-09-13T20:32:52Z"
+        },
+        {
+          "key": "vless://bca46025-bf43-40c0-895b-054a6fbcfd32@172.235.38.85:42942?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&pbk=JmkfJoDWpAqt6gj4cbc4_cwItsdryMlV7joAGfNTKQU&sid=a56d7d8da977f860&type=tcp&headerType=none&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D",
+          "host": "172.235.38.85",
+          "port": 42942,
+          "latency_ms": 29.5,
+          "first_seen": "2026-09-13T20:32:52Z"
+        },
+        {
+          "key": "vless://bca46025-bf43-40c0-895b-054a6fbcfd32@172.235.38.85:42942?security=reality&encryption=none&pbk=JmkfJoDWpAqt6gj4cbc4_cwItsdryMlV7joAGfNTKQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=a56d7d8da977f860#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D",
+          "host": "172.235.38.85",
+          "port": 42942,
+          "latency_ms": 29.5,
+          "first_seen": "2026-09-13T20:32:52Z"
         }
       ],
-      "total_working": 52,
-      "total": 52,
+      "total_working": 60,
+      "total": 61,
       "flag": "🇺🇸"
     }
   },
@@ -703,59 +862,15 @@
     "total": 0
   },
   "w_other": {
-    "best": "vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?__rand=f16bdfb0&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83160&freeinternet=kizyak_vpn1789086955985&mode=stream-one&nonce=EZToxCX0&path=%2Fapi%2Fv1%2Fe0163615&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&security=reality&seq=you_are_beautiful7236&sid=864fbb122f15b43d&sni=ok.ru&type=xhttp&fp=qq#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK",
-    "top10": [
-      {
-        "key": "vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?__rand=f16bdfb0&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83160&freeinternet=kizyak_vpn1789086955985&mode=stream-one&nonce=EZToxCX0&path=%2Fapi%2Fv1%2Fe0163615&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&security=reality&seq=you_are_beautiful7236&sid=864fbb122f15b43d&sni=ok.ru&type=xhttp&fp=qq#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK",
-        "host": "95.163.214.43",
-        "port": 443,
-        "latency_ms": 154.5,
-        "first_seen": "2026-09-13T15:54:26Z"
-      },
-      {
-        "key": "vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?spx=%2F&host=vk.com&path=%2Fapi%2Fv1%2Fe0163615&__rand=50c155d9&__rand=6bffbdde&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8Faab9d4&burmalda=f41a69ee&type=xhttp&sni=ok.ru&security=reality&nonce=DspP_kiw&sid=864fbb122f15b43d&mode=stream-one&freeinternet=kizyak_vpn1789293020190&fp=qq#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK",
-        "host": "95.163.214.43",
-        "port": 443,
-        "latency_ms": 155.2,
-        "first_seen": "2026-09-13T15:54:26Z"
-      },
-      {
-        "key": "vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?spx=%2F&host=vk.com&path=%2Fapi%2Fv1%2Fe0163615&__rand=50c155d9&__rand=6bffbdde&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8Faab9d4&burmalda=f41a69ee&type=xhttp&sni=ok.ru&security=reality&nonce=DspP_kiw&sid=864fbb122f15b43d&mode=stream-one&freeinternet=kizyak_vpn1789293020190&fp=ios#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK",
-        "host": "95.163.214.43",
-        "port": 443,
-        "latency_ms": 158.9,
-        "first_seen": "2026-09-13T15:54:26Z"
-      },
-      {
-        "key": "vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?__rand=f16bdfb0&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83160&freeinternet=kizyak_vpn1789086955985&mode=stream-one&nonce=EZToxCX0&path=%2Fapi%2Fv1%2Fe0163615&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&security=reality&seq=you_are_beautiful7236&sid=864fbb122f15b43d&sni=ok.ru&type=xhttp&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK",
-        "host": "95.163.214.43",
-        "port": 443,
-        "latency_ms": 164.1,
-        "first_seen": "2026-09-13T15:54:26Z"
-      },
-      {
-        "key": "vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?spx=%2F&host=vk.com&path=%2Fapi%2Fv1%2Fe0163615&__rand=50c155d9&__rand=6bffbdde&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8Faab9d4&burmalda=f41a69ee&type=xhttp&sni=ok.ru&security=reality&nonce=DspP_kiw&sid=864fbb122f15b43d&mode=stream-one&freeinternet=kizyak_vpn1789293020190&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK",
-        "host": "95.163.214.43",
-        "port": 443,
-        "latency_ms": 170.0,
-        "first_seen": "2026-09-13T15:54:26Z"
-      }
-    ],
-    "total_working": 5,
-    "total": 6
+    "best": null,
+    "top10": [],
+    "total_working": 0,
+    "total": 0
   },
   "russia": {
-    "best": "vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?__rand=8b48a579&_t=60ed0c0b&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F83df55&host=vk.com&nonce=CqUay3_-&path=%2Fapi%2Fv1%2Fe0163615&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&security=reality&seq=you_are_beautiful3210&sid=864fbb122f15b43d&sni=ok.ru&type=xhttp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK",
-    "top10": [
-      {
-        "key": "vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?__rand=8b48a579&_t=60ed0c0b&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F83df55&host=vk.com&nonce=CqUay3_-&path=%2Fapi%2Fv1%2Fe0163615&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&security=reality&seq=you_are_beautiful3210&sid=864fbb122f15b43d&sni=ok.ru&type=xhttp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK",
-        "host": "95.163.214.43",
-        "port": 443,
-        "latency_ms": 151.8,
-        "first_seen": "2026-09-13T15:54:31Z"
-      }
-    ],
-    "total_working": 1,
-    "total": 6
+    "best": null,
+    "top10": [],
+    "total_working": 0,
+    "total": 0
   }
 }
